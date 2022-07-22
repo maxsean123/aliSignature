@@ -1,0 +1,23 @@
+{
+  "name": "ali-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsean123/aliSignature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsean123/aliSignature/issues"
+  },
+  "homepage": "https://github.com/maxsean123/aliSignature#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1"
+  }
+}
